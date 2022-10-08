@@ -51,7 +51,7 @@ ___
 ## Images
 <!--Images-->
 
-![Hollow Knight](hollo.jpg)
+![Hollow Knight](hollo.png)
 
 
 <!-- github md-->
